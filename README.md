@@ -68,3 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Code
 
 Just the tests were created by ai.
+
+## Example
+
+![Screenshot of the use of MCP in vscode with copilot in agent mode and Claude sonnet 3.5](https://github.com/guru3k1/simpsonsmcp/blob/main/screenshot.png?raw=true)
